@@ -1,2 +1,5 @@
 # Contributors for the project:
-Andrew Luu
+
+#Contributors for this project: Kaladin Stromblessed
+
+#Contributors for this project: Andrew Luu
